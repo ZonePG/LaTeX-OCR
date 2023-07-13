@@ -22,6 +22,14 @@
             "args": [
                 "--gui"
             ]
+        },
+        {
+            "name": "Python: pix2tex",
+            "type": "python",
+            "request": "launch",
+            "module": "pix2tex.__main__",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }
