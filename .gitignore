@@ -136,7 +136,6 @@ wandb/
 pix2tex/model/checkpoints/**
 !pix2tex/model/checkpoints/*.py
 !**/.gitkeep
-.vscode
 .DS_Store
 test/*
 
